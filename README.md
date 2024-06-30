@@ -43,7 +43,7 @@ The Global Synergy Network (GSN) is a pioneering collaborative system that integ
 - Transparency: Ensures that all processes and decisions made by the AI are transparent and explainable.
 - Ethical Guidelines: Adheres to strict ethical guidelines to ensure that all outcomes are beneficial and considerate of societal impacts.
 
-Potential Impact:
+### Potential Impact:
 
 - Scientific Breakthroughs: Accelerates the pace of discovery by enabling cross-disciplinary research and innovative thinking.
 - Technological Advancements: Drives the development of cutting-edge technologies by combining expertise from various fields.
