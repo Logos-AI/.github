@@ -40,7 +40,7 @@
 
 - **Partnerships and Collaborations**: Collaborating with international organizations and civil society strengthens GSN's impact on global ethics and inclusivity.
   
-- **Technology Integration**: Leveraging AI for real-time translation and accessibility features enhances GSN's inclusivity offerings.
+- **Accessibility Integration**: Leveraging AI for real-time translation and accessibility features enhances GSN's inclusivity offerings.
   
 - **Continuous Evaluation**: Regular audits and impact assessments monitor GSN's ethical impact and alignment with societal goals.
 
