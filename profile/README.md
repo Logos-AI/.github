@@ -12,6 +12,7 @@ The Global Synergy Network (GSN) is a pioneering collaborative system that integ
 - [Plan](https://github.com/Logos-AI/.github/blob/main/PLAN.md): Implementation Timeline of GSN
 - [Business](https://github.com/Logos-AI/.github/blob/main/BUSINESS.md): Business Plan of GSN
 - [Applications](https://github.com/Logos-AI/.github/blob/main/APPLICATIONS.md): Applications of GSN
+- [Value](https://github.com/Logos-AI/.github/blob/main/VALUE.md): Value of GSN platform
 
 ### Key Features:
 
