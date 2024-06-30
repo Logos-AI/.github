@@ -23,8 +23,25 @@
   - Initial Infrastructure Setup
     - Procure and configure initial servers and databases
 
-## Phase 2: Development and Integration (Months 4-9)
-- **Month 4-6**
+## Phase 2: Host Architecting (Months 4-5)
+- **Month 4**
+  - Function and data hosting
+    - Develop formal system based in lambda calculus
+    - Implement consistent typing system across required frameworks
+  - Elements of supervised and autonomous learning
+    - Design a teacher program and a learner program
+    - Make essential decision making algorithms for teacher program
+   
+- **Month 5**
+  - Functional testing and Integration testing
+    - Verify operation of the host formal system with unit tests
+    - Perform automated and manual end-to-end smoke tests
+  - Acceptance testing
+    - Contact universities and companies for voluntary pilot program participation 
+    - Conduct a technical usability study with researchers of various fields
+
+## Phase 3: Development and Integration (Months 6-9)
+- **Month 6-7**
   - Core Infrastructure Development
     - Deploy core servers, databases, and network configurations
     - Implement Distributed Ledger Technology (DLT) for data integrity
@@ -32,7 +49,7 @@
     - Develop web portal and mobile app interfaces
     - Implement visualization and collaboration tools
 
-- **Month 7-9**
+- **Month 8-9**
   - Repository Implementation
     - Build centralized and decentralized storage solutions
     - Develop smart indexing and search functionalities
@@ -40,7 +57,7 @@
     - Design and implement initial SynergyNodes with standardized APIs
     - Set up version control for SynergyNodes
 
-## Phase 3: Testing and Quality Assurance (Months 10-12)
+## Phase 4: Testing and Quality Assurance (Months 10-12)
 - **Month 10**
   - Unit Testing
     - Test individual components for functionality and performance
@@ -57,7 +74,7 @@
     - Conduct thorough testing to identify and fix any remaining issues
     - Prepare for pilot launch
 
-## Phase 4: Deployment and Launch (Months 13-15)
+## Phase 5: Deployment and Launch (Months 13-15)
 - **Month 13**
   - Pilot Launch
     - Deploy the system to a limited audience for final testing and feedback
@@ -73,7 +90,7 @@
     - Roll out the system globally
     - Provide support for users during the initial launch phase
 
-## Phase 5: Maintenance and Evolution (Ongoing)
+## Phase 6: Maintenance and Evolution (Ongoing)
 - **Continuous Monitoring**
   - Implement monitoring tools to track system performance and security
   - Address any issues promptly to ensure smooth operation
