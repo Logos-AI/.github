@@ -4,7 +4,7 @@ The Global Synergy Network (GSN) is a pioneering platform designed to integrate 
 
 - **Interdisciplinary Collaboration**: GSN fosters collaboration among experts from various fields, leveraging diverse perspectives to address complex global challenges.
 
-- **Scientific Contribution**: The capabilities of AI are advanced by Lambda Calculus and other modern programming principles to deliver an AI that addresses the present limitations.
+- **Scientific Contribution**: The capabilities of AI are advanced by Lambda Calculus and other modern programming principles to deliver an AI that resolves the present limitations.
   
 - **Ethical Innovation**: Incorporating robust ethical frameworks, GSN promotes transparency, fairness, and accountability in data use and AI applications.
   
